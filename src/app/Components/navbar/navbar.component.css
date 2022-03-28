@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(241,239,239);
+    height: 50px;
+}
+.button{
+    background-color: white;
+    color: black;
+    padding:0px;
+    background: none;
+    margin-left: 5px;
+    text-decoration: none;
+}
+#text{
+    margin-left: 1050px;
+    background-color: white;
+    border-radius: 5px;
+    border-color: rgb(247,241,241);
+    height: 20px;
+}
+#search{
+    background-color: white;
+    color:rgb(180,231,103);
+    border-radius: 5px;
+    border-color: rgb(180,231,103);
+    margin-left: 5px;
+    height: 30px;
+}
